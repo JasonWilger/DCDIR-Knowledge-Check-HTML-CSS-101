@@ -1,0 +1,48 @@
+body {
+    border: 1px solid black;
+    display: block;
+    margin: 1%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.content {
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
+    border: solid black;
+    width: auto;
+    font-family: 'Catamaran', sans-serif;
+}
+
+hr {
+
+    height: 2px;
+    border-width: 0;
+    color: gray;
+    background-color: gray;
+    width: 95%;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 57.5%;
+}
+
+.footer p {
+    text-align: center;
+    margin: 1%;
+    font-size: 150%;
+}
